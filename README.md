@@ -22,4 +22,9 @@ Day -3 22/12/2021
 
 
 
-Day - 4 
+Day - 4 23/12/2021
+1.PickList
+2.Multiple PickList
+3.Global PickList
+4.Field Dependency
+
