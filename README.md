@@ -28,3 +28,13 @@ Day - 4 23/12/2021
 3.Global PickList
 4.Field Dependency
 
+
+Day -5 25/12/2021
+
+1.Relationship in salesforce
+2. Master-Detail Relationship
+3.RollUp Summary
+
+
+
+
