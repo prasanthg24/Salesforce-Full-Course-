@@ -47,3 +47,5 @@ Day - 8 Practiced and solved many trailhead Challenges
 Day - 9 Interface
 
 Day - 9 schedulable Apex , Batch 
+
+Day - 10 Trigger
