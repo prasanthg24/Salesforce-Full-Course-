@@ -1,0 +1,30 @@
+({
+	handleClickadd : function(component, event, helper) 
+    {
+		var fristnum = component.get('v.firstnumber');
+        var secondnum = component.get('v.secondnumber');
+        var resultvalue = parseInt(fristnum)+parseInt(secondnum);
+        component.set('v.result',resultvalue);
+	},
+    handleClicksub : function(component, event, helper) 
+    {
+		var fristnum = component.get('v.firstnumber');
+        var secondnum = component.get('v.secondnumber');
+        var resultvalue = parseInt(fristnum)-parseInt(secondnum);
+        component.set('v.result',resultvalue);
+	},
+    handleClickmul : function(component, event, helper) 
+    {
+		var fristnum = component.get('v.firstnumber');
+        var secondnum = component.get('v.secondnumber');
+        var resultvalue = parseInt(fristnum)*parseInt(secondnum);
+        component.set('v.result',resultvalue);
+	},
+    handleClickdiv : function(component, event, helper) 
+    {
+		var fristnum = component.get('v.firstnumber');
+        var secondnum = component.get('v.secondnumber');
+        var resultvalue = parseInt(fristnum)/parseInt(secondnum);
+        component.set('v.result',resultvalue);
+	}
+})
